@@ -1,0 +1,12 @@
+[
+  { "id": 1, "name": "Alice Johnson", "year": 1, "course": "Computer Science", "grades": [88, 92, 95, 90], "enrolled": true },
+  { "id": 2, "name": "Bob Smith", "year": 2, "course": "Information Technology", "grades": [75, 80, 72, 78], "enrolled": true },
+  { "id": 3, "name": "Charlie Brown", "year": 3, "course": "Computer Science", "grades": [95, 98, 100, 92], "enrolled": false },
+  { "id": 4, "name": "Diana Prince", "year": 4, "course": "Data Science", "grades": [85, 89, 90, 88], "enrolled": true },
+  { "id": 5, "name": "Evan Wright", "year": 1, "course": "Information Technology", "grades": [60, 65, 70, 68], "enrolled": false },
+  { "id": 6, "name": "Fiona Gallagher", "year": 2, "course": "Software Engineering", "grades": [91, 89, 94, 96], "enrolled": true },
+  { "id": 7, "name": "George Clark", "year": 3, "course": "Data Science", "grades": [78, 82, 80, 85], "enrolled": true },
+  { "id": 8, "name": "Hannah Abbott", "year": 4, "course": "Computer Science", "grades": [82, 85, 88, 84], "enrolled": true },
+  { "id": 9, "name": "Ian Malcolm", "year": 1, "course": "Software Engineering", "grades": [], "enrolled": false },
+  { "id": 10, "name": "Julia Roberts", "year": 2, "course": "Information Technology", "grades": [89, 93, 91, 95], "enrolled": true }
+]

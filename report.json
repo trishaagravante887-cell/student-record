@@ -1,0 +1,26 @@
+{
+  "totalStudents": 10,
+  "overallAverageGrade": 82.2,
+  "topStudent": {
+    "name": "Charlie Brown",
+    "averageGrade": 96.25
+  },
+  "courseBreakdown": [
+    {
+      "course": "Computer Science",
+      "averageGrade": 90.33
+    },
+    {
+      "course": "Software Engineering",
+      "averageGrade": 92.5
+    },
+    {
+      "course": "Data Science",
+      "averageGrade": 84.63
+    },
+    {
+      "course": "Information Technology",
+      "averageGrade": 76.67
+    }
+  ]
+}
